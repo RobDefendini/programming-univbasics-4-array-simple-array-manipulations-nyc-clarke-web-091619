@@ -49,5 +49,5 @@ end
 
 def using_delete_at (talking,yelling)
   famous_robots = ["speak", "speach", "wisper"]
-famous_robots.delete(2) 
+famous_robots.delete (2) 
 end
