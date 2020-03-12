@@ -48,6 +48,6 @@ def using_delete(towns,cities)
 end
 
 def using_delete_at (talking,yelling)
-  talking = ["speak", "speach", "wisper"]
+  talking = ["speak", "speach", "Robocop"]
 talking.delete_at(2)  
 end
