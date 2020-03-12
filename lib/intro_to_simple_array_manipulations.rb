@@ -48,6 +48,6 @@ def using_delete(towns,cities)
 end
 
 def using_delete_at (talking,yelling)
-  famous_robots = ["speak", "speach", "wisper"]
-famous_robots.delete  
+  talking = ["speak", "speach", "wisper"]
+talking.delete  
 end
