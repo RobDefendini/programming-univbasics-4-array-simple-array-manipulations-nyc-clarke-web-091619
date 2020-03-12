@@ -49,5 +49,5 @@ end
 
 def using_delete_at (talking,yelling)
   talking = ["speak", "speach", "wisper"]
-talking.delete(2)  
+talking.delete_at(2)  
 end
